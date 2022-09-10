@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={'container mx-auto flex flex-col justify-center items-center pt-8 sm:pt-14'}>
+      <main className={'container mx-auto flex flex-col justify-center items-center pt-12 sm:pt-14'}>
         
         <Image style={{ borderRadius: '30px' }} layout='fixed' objectFit="cover" src="/profile-photo.jpeg" alt="Me" width={150} height={150} />
 
@@ -25,17 +25,17 @@ export default function Home() {
             Design. Develop. Iterate.
           </h3>
 
-          <p className='text-center text-lg max-w-xl mb-8 mx-10'>
-            I&apos;m a full-stack developer with frontend, backend, and mobile development experience.  Currently living in Boston, MA and building a&nbsp;
-           <a className='text-green-600 hover:underline' href='https://pockets.tech/ios' _target='blank'>personal finance app</a>
+          <p className='text-center text-lg max-w-xl mb-8 mx-8'>
+            I&apos;m a full-stack developer with frontend, backend, and mobile development experience. I&apos;m currently living in Boston, MA and building a&nbsp;
+           <a className='text-green-600 underline' href='https://pockets.tech/ios' _target='blank'>personal finance app</a>
            &nbsp;for the next generation.
           </p>
 
-          <p className='text-center text-lg mx-w-xl mb-2'>
+          <p className='text-center text-lg mx-w-xl mb-2 mx-8'>
             Some tools I commonly work with include:
           </p>
 
-          <p className='text-center text-lg max-w-xl mb-8 mx-10'>
+          <p className='text-center text-lg max-w-xl mb-8 mx-8'>
            Java, Node.js, TypeScript, React, React Native, Angular, Python, MySQL, Postgres, and GraphQL.
           </p>
         </div>
