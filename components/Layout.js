@@ -14,22 +14,22 @@ export default function Layout({ children }) {
         </div>
 
         <div className={'flex items-center justify-center '}>
-          <a >
-            <FaEnvelope size={30} className={'text-gray-600 hover:text-gray-400 hover:scale-110 mr-4'} />
+          <a className='mr-4'>
+            <FaEnvelope size={30} className={'text-gray-600 hover:text-gray-400 hover:scale-110'} />
           </a>
-          <a href='https://www.linkedin.com/in/tyler-cote/' target={'_blank'} rel="noreferrer">
-            <FaLinkedin size={30} className={'text-gray-600 hover:text-blue-700 hover:scale-110 mr-4'} />
+          <a className='mr-4' href='https://www.linkedin.com/in/tyler-cote/' target={'_blank'} rel="noreferrer">
+            <FaLinkedin size={30} className={'text-gray-600 hover:text-blue-700 hover:scale-110'} />
           </a>
-          <a href='https://github.com/tylercote' target={'_blank'} rel="noreferrer">
-            <FaGithub size={30} className={'text-gray-600 hover:text-black hover:scale-110 mr-4'} />
+          <a className='mr-4' href='https://github.com/tylercote' target={'_blank'} rel="noreferrer">
+            <FaGithub size={30} className={'text-gray-600 hover:text-black hover:scale-110'} />
           </a>
-          <a href='https://apps.apple.com/us/app/pockets-budget-finance/id1554290738' target={'_blank'} rel="noreferrer">
-            <FaApple size={30} className={'text-gray-600 hover:text-gray-400 hover:scale-110 mr-4'} />
+          <a className='mr-4' href='https://apps.apple.com/us/app/pockets-budget-finance/id1554290738' target={'_blank'} rel="noreferrer">
+            <FaApple size={30} className={'text-gray-600 hover:text-gray-400 hover:scale-110'} />
           </a>
-          <a href='https://open.spotify.com/user/1239349331' target={'_blank'} rel="noreferrer">
-            <FaSpotify size={30} className={'text-gray-600 hover:text-green-600 hover:scale-110 mr-4'} />
+          <a className='mr-4' href='https://open.spotify.com/user/1239349331' target={'_blank'} rel="noreferrer">
+            <FaSpotify size={30} className={'text-gray-600 hover:text-green-600 hover:scale-110'} />
           </a>
-          {/* <a href='https://twitter.com/TylerCote4' target={'_blank'} rel="noreferrer">
+          {/* <a className='mr-4' href='https://twitter.com/TylerCote4' target={'_blank'} rel="noreferrer">
             <FaTwitter size={30} className={'text-gray-600 hover:text-blue-400 hover:scale-110 mr-4'} />
           </a> */}
           <a href='https://www.instagram.com/tyler_cote/' target={'_blank'} rel="noreferrer">
