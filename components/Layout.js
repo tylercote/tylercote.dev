@@ -8,8 +8,8 @@ export default function Layout({ children }) {
       <footer className={'flex flex-col items-center justify-center'}>
 
         <div className={'flex items-center justify-center mb-12'}>
-          <a href='mailto:tyler16cote@gmail.com' target={'_blank'} rel="noreferrer" className='text-center w-48 sm:w-60 mr-8 hover:scale-105 rounded-lg px-8 py-4 color-white font-bold text-white text-lg bg-green-500'>Email</a>
-          <a href='' className='text-center w-48 sm:w-60 hover:scale-105 rounded-lg px-8 py-4 color-white font-bold text-white text-lg bg-blue-500'>Meet</a>
+          <a href='mailto:tyler16cote@gmail.com' target={'_blank'} rel="noreferrer" className='text-center w-34 sm:w-60 mr-8 hover:scale-105 rounded-lg px-8 py-4 color-white font-bold text-white text-lg bg-green-500'>Email</a>
+          <a href='' className='text-center w-34 sm:w-60 hover:scale-105 rounded-lg px-8 py-4 color-white font-bold text-white text-lg bg-blue-500'>Meet</a>
         </div>
 
         <div className={'flex items-center justify-center '}>
