@@ -21,10 +21,12 @@ export default function Home() {
             Tyler Cote
           </h1>
 
-          <h3 className='text-2xl sm:text-3xl text-center text-gray-500 mb-12'>I design & develop quality software.</h3>
+          <h3 className='text-2xl sm:text-3xl text-center text-gray-500 mb-12'>
+            Design. Develop. Iterate.
+          </h3>
 
-          <p className='text-center text-lg max-w-xl mb-8 mx-12'>
-           I&apos;m a full-stack developer with frontend, backend, and mobile development experience.  Currently living in Boston, MA and building a&nbsp;
+          <p className='text-center text-lg max-w-xl mb-8 mx-10'>
+            I&apos;m a full-stack developer with frontend, backend, and mobile development experience.  Currently living in Boston, MA and building a&nbsp;
            <a className='text-green-600 hover:underline' href='https://pockets.tech/ios' _target='blank'>personal finance app</a>
            &nbsp;for the next generation.
           </p>
@@ -33,7 +35,7 @@ export default function Home() {
             Some tools I commonly work with include:
           </p>
 
-          <p className='text-center text-lg max-w-xl mb-8 mx-12'>
+          <p className='text-center text-lg max-w-xl mb-8 mx-10'>
            Java, Node.js, TypeScript, React, React Native, Angular, Python, MySQL, Postgres, and GraphQL.
           </p>
         </div>
