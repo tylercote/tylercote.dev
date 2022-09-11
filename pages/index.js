@@ -27,7 +27,7 @@ export default function Home() {
 
           <p className='text-center text-lg max-w-xl mb-8 mx-8'>
             I&apos;m a full-stack developer with frontend, backend, and mobile development experience. I&apos;m currently living in Boston, MA and building a&nbsp;
-           <a className='text-green-600 underline' href='https://pockets.tech/ios' _target='blank'>personal finance app</a>
+           <a className='text-green-600 underline' href='https://apps.apple.com/us/app/pockets-budget-finance/id1554290738' _target='blank'>personal finance app</a>
            &nbsp;for the next generation.
           </p>
 
